@@ -1,0 +1,5 @@
+<!-- Dark mode in HTML activated -->
+<meta name="color-scheme" content="dark">
+<!-- Start of the program -->
+<script>
+</script>
